@@ -1,7 +1,8 @@
 package = "luacov"
 version = "scm-1"
 source = {
-   url = "git+https://github.com/keplerproject/luacov.git",
+   url = "git+https://github.com/edubart/luacov.git",
+   branch = "myrocks"
 }
 description = {
    summary = "Coverage analysis tool for Lua scripts",
